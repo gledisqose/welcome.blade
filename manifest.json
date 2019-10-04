@@ -4,13 +4,13 @@
 
   "short_name": "COPI", 
 
-  "start_url": "https://github.com/gledisqose/welcome.blade/blob/master/ic_launcher-web.png", 
+  "start_url": "https://github.com/gledisqose/welcome.blade/blob/master/ic_launcher-web.png?raw=true", 
 
   "display": "standalone", 
 
   "icons": [{ 
 
-    "src": "https://github.com/gledisqose/welcome.blade/blob/master/ic_launcher-web.png", 
+    "src": "https://github.com/gledisqose/welcome.blade/blob/master/ic_launcher-web.png?raw=true", 
 
     "sizes": "192x192", 
 
